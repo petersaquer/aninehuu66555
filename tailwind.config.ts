@@ -4,7 +4,6 @@ export default {
   content: [
     './client/src/**/*.{ts,tsx,jsx,js}',
     './client/index.html',
-    './client/src/index.css',
   ],
   theme: {
     fontFamily: {
